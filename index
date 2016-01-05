@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css" rel="stylesheet" type="text/css">
+    <!-- 
+    <link href='http://fonts.googleapis.com/css?family=Crete+Round:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,100italic,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,700,900,500' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Exo+2:400,300,200,500,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Gochi+Hand' rel='stylesheet' type='text/css'>
+        -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="jquery.stickyNavbar.css" />
+</head>
+<body>
+    <!--
+    <aside class="site__menu">
+        <nav class="site__menu__nav">
+            <ul><li><a href="/pricing">Pricing</a></li><li><a href="/products">Products &amp; Platforms</a></li><li><a href="/customers">Customers</a></li><li><a href="/help">Help</a></li><li><a href="/about">About</a></li><li><a href="/community">Community</a></li><li><a href="/docs">Docs</a></li><li><a href="http://blog.parse.com/">Blog</a></li></ul>
+        </nav>
+        <div class="site__menu__socials">
+            <h4 class="h4">Stay Connected</h4><ul><li> <a href="https://www.facebook.com/parseit"><svg class="icon icon-fb"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/symbols.svg#fb"></use></svg></a></li><li> <a href="https://twitter.com/parseit"><svg class="icon icon-twitter"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/symbols.svg#twitter"></use></svg></a></li><li> <a href="https://github.com/ParsePlatform"><svg class="icon icon-github"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/symbols.svg#github"></use></svg></a></li><li> <a href="http://stackoverflow.com/questions/tagged/parse.com"><svg class="icon icon-stack-overflow"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/symbols.svg#stack-overflow"></use></svg></a></li><li> <a href="https://groups.google.com/forum/#!forum/parse-developers"><svg class="icon icon-google"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/symbols.svg#google"></use></svg></a></li></ul><p class="site__menu__build-together">Let’s build together.</p>
+        </div>
+    </aside>
+    -->
+    <!-- START Header Nav -->
+    <div id="header" class="header">
+        <div id="nav">
+            <ul class="nav navbar-nav">
+                <!--      <li class="menuItem">
+                                    <img href="#home" src="NriLogo_blue.png">
+                                </li>
+                -->
+                <li class="menuItem">
+                    <a href="#home">NRI Delight</a>
+                </li>
+                <li class="menuItem">
+                    <a href="#whatwedo">What We Do</a>
+                </li>
+                <li class="menuItem">
+                    <a href="#howitworks">How It Works</a>
+                </li>
+                <li class="menuItem">
+                    <a href="#whyus">Why Us</a>
+                </li>
+                <li class="menuItem">
+                    <a href="#request">Request Assistance</a>
+                </li>
+                <!--
+                <li class="menuItem">
+                    <a href="#contact">Contact Us</a>
+                </li>
+                    -->
+            </ul>
+        </div>
+        <!-- End #nav -->
+    </div>
+    <!-- End #header -->
+    <!-- START #home -->
+    <div id="home" class="scrollto" style="background-color:#00abec">
+        <h2 class="logo">NRI Delight</h2>
+        <h2>Dedicated Virtual Assistants in India for NRIs</h2>
+        <h3>
+            <h3 class="logo">We aspire to delight you!</h3>
+            <!--<span class="glyphicon glyphicon-chevron-down wobble slideDown"></span>-->
+        </h3>
+        <div class="message">
+            Your first assistance service is <b>Free </b>! Offer code <b>"FIRST"</b>
+        </div>
+    </div>
+    <!-- End #home -->
+    <!-- START whatwedo -->
+    <div id="whatwedo" class="scrollto" bgcolor="#00abec">
+        <h2></h2>
+        <h2>What We Do</h2>
+        <p class="align-center">
+            We provide virtual personal assistance to NRIs.
+            Currently, we are providing insurance assistance (More services coming soon).
+        </p>
+        <p class="align-left">
+            Don't buy the first policy you come across. We can help you research best options based on your requirements. We help you save time and hassle. We provide end to end assistance at a flat fee. We can also assist with claims.
+        </p>
+        <table class="align-left" id="table_whatwedo">
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Parents Health Insurance</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Individual and Family Health Insurance</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Travel Insurance</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Vehicle (motor) Insurance</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Home Insurance</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Commercial Insurance</td>
+            </tr>
+        </table>
+        <!--            <p class="download align-left">
+                        <a href="" class="primary btn download align-left"><i class="fa fa-cloud-download"></i>Request your first assistance</a>
+                    </p>
+        -->
+    </div>
+    <!-- End #whatwedo -->
+    <!--START howitworks-->
+    <div id="howitworks" class="scrollto" style="background-color:#00abec">
+        <h2>How It Works</h2>
+        <p class="align-left">
+            Send us your requirements and a dedicated personal assistant (PA) will be assigned to you. PA will contact you to understand all your requirements.
+            <br></br>
+        </p>
+        <div class="listmessage">
+            <p class="align-left">
+                <ol>
+                    <li>PA will research on your behalf and will talk to brokers and agents.</li>
+                    <li>PA will share research, policy details and options with you. You choose the best option.</li>
+                    <li>PA will assist you and your family with the buying process.</li>
+                </ol>
+            </p>
+        </div>
+        <p>
+            <br>
+            You pay a flat fee of $29 for a personal assistance service.
+            <br><br>
+            We also assist you with claims<br>
+            please contact us in advance before availing medical services. You will need to fill a authorization form so we can legally work on your behalf and assist you with the calim process. We only get paid if the claim is approved. Our fee is $29 or 3.5% of the approved claim amount, whichever is higher.
+        </p>
+    </div>
+    <!-- START whyus -->
+    <div id="whyus" class="scrollto">
+        <h2>Why US</h2>
+        <p class="align-center">
+            We aspire to delight you!
+        </p>
+        <table class="align-left" id="table_whyus">
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>We work for you and not for insurance company</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>We help you through out the process</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>We can also assist with claims</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Dedicated experienced professional at your service</td>
+            </tr>
+            <tr>
+                <td><img src="circle-ok.png"> </td>
+                <td>Flat fee, no hidden cost</td>
+            </tr>
+        </table>
+    </div>
+    <!-- End #whyus -->
+    <!-- START request -->
+    <div id="request" class="scrollto" style="background-color:#00abec">
+        <h2>Request Assistance</h2>
+        <div class="align-center">
+            <p class="align-center">
+                Send us an email <a href="mailto:support@nridelight.com">support@nridelight.com</a>
+            </p>
+            <br>
+            <div class="align-center">
+                <div class="message">
+                    Your first assistance service is <b>Free </b>! Offer code <b>"FIRST"</b>
+                </div>
+            </div>
+        </div>
+        <p class="align-center">
+            Pricing <br>
+            Dedicated Personal Assistance is $29* per personal assistance request <br>
+            Claim process assistance is $29* or 3.5%* of approved claim amount whichever is higher.<br>
+            * plus applicable taxes
+        <p>
+    </div>
+    <!-- End #request -->
+
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
+    <script type='text/javascript' src='//cdn.jsdelivr.net/stickynavbar.js/1.2.0/jquery.stickyNavbar.min.js'></script>
+    <!--
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js' type='text/javascript'></script>
+    <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushBash.js' type='text/javascript'></script>
+    <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushCss.js' type='text/javascript'></script>
+    <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushJScript.js' type='text/javascript'></script>
+    <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushXml.js' type='text/javascript'></script>
+        -->
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-71406010-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

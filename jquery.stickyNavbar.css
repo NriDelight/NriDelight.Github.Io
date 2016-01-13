@@ -46,7 +46,7 @@ body {
 
 .message {
     background-color: #eee;
-    /*display: block;*/
+    display: inline;
     padding: 20px 15px 10px;
     margin-top: 5px;
     position: relative;

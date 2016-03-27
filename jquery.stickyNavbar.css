@@ -451,6 +451,16 @@ code {
   padding: 0 !important;
 }
 
+padding20px
+{
+    padding:20px;
+}
+
+padding10px
+{
+    padding:10px;
+}
+
 /* Wrapping at a maximum width is optional */
 .wrap .grid,
 .grid.wrap {

@@ -536,14 +536,20 @@ padding10px
 /* Utility classes */
 .align-center {
   text-align: center;
+  padding-left:10%;
+  padding-right:10%;
 }
 
 .align-left {
   text-align: left;
+  padding-left:10%;
+  padding-right:10%;
 }
 
 .align-right {
   text-align: right;
+  padding-left:10%;
+  padding-right:10%;
 }
 
 .pull-left {
